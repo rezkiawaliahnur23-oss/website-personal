@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rezkiawaliahnur23-oss.github.io/website-personal/sitemap.xml
